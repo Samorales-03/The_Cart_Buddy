@@ -1,0 +1,3 @@
+[submodule "lib"]
+	path = lib
+	url = git@github.com:Samorales-03/The_Cart_Buddy.git
